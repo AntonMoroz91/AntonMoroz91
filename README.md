@@ -69,14 +69,7 @@ Python | Selenium | Pytest | Requests | Git | Postman | SQL
 
 ---
 
-## 📊 Статистика
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonMoroz91&layout=compact)
-
----
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=AntonMoroz91&countColor=%23263759)
-«Качественный продукт — не тот, в котором нет багов, а тот, в котором они быстро найдены и исправлены»
 
 ---
 
