@@ -71,7 +71,7 @@ Python | Selenium | Pytest | Requests | Git | Postman | SQL
 
 ## 📊 Статистика
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonMoroz91&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonMoroz91&layout=compact&cache_seconds=0)
 
 ---
 
