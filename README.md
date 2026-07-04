@@ -73,7 +73,7 @@ Python | Selenium | Pytest | Requests | Git | Postman | SQL
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=AntonMoroz91&countColor=%23263759)
 
----
+
 
 
 
