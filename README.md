@@ -73,10 +73,4 @@ Python | Selenium | Pytest | Requests | Git | Postman | SQL
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=AntonMoroz91&countColor=%23263759)
 
-
-
-
-
----
-
 ⭐ Буду рад присоединиться к команде, где смогу применить свои навыки и расти дальше.
