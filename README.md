@@ -83,6 +83,13 @@
 [![Phone](https://img.shields.io/badge/Phone-+79817142226-25D366?logo=smartphone)](tel:+79817142226)
 
 ---
+## 🎓 Документы
+
+[![Diploma](https://img.shields.io/badge/📜-Диплом_проф._переподготовка-00599C?style=for-the-badge)](https://github.com/AntonMoroz91/AntonMoroz91/blob/master/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_QAP_SkillFactory.pdf)
+[![Cert-Auto](https://img.shields.io/badge/🤖-Сертификат_автоматизация-FFA500?style=for-the-badge)](https://github.com/AntonMoroz91/AntonMoroz91/blob/master/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82_%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_Python.pdf)
+[![Cert-Manual](https://img.shields.io/badge/✅-Сертификат_ручное_тестирование-28A745?style=for-the-badge)](https://github.com/AntonMoroz91/AntonMoroz91/blob/master/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82_%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
+
+---
 
 ## 📊 Статистика
 
