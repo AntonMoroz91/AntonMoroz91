@@ -1,76 +1,79 @@
-# 👋 Привет, я Антон — QA Automation Engineer (Python)
+# 👋 Привет, я Антон Мороз
 
-🎓 Выпускник SkillFactory по программе «Тестировщик-автоматизатор на Python (QAP)».
-📍 Россия
-🔍 Открыт к предложениям на позицию Junior QA Automation / QA Engineer.
+**QA Automation Engineer** · Python · Санкт-Петербург
+
+🔍 Открыт к предложениям на позицию Junior QA Automation / QA Engineer  
+🎓 Дипломный проект «Ростелеком ID» — SkillFactory (QAP)
 
 ---
 
 ## 🛠 Мой стек
 
-Python | Selenium | Pytest | Requests | Git | Postman | SQL
-
-Ручное тестирование: тест-кейсы, баг-репорты, чек-листы, smoke-тестирование
-
-Техники тест-дизайна: Классы эквивалентности, Граничные значения
-Паттерны: Page Object Model (POM)
-Инструменты: Chrome DevTools, WebDriver Manager, Google Sheets
+| Категория | Технологии |
+|-----------|------------|
+| **Основной** | Python, Pytest, Selenium, Requests, Postman, SQL |
+| **Автоматизация** | Page Object Model, Allure, GitHub Actions, Docker |
+| **Ручное тестирование** | Тест-кейсы, баг-репорты, чек-листы, smoke-тестирование |
+| **Техники** | Классы эквивалентности, граничные значения |
 
 ---
 
 ## 🚀 Ключевые проекты
 
-### 🔐 Ростелеком ID — Автотесты SSO
-Дипломный проект | Реальный кейс компании «Ростелеком Информационные Технологии»
-
-- 25 автоматизированных тестов на Python + Selenium + Pytest
-- 30 тест-кейсов (25 авто + 5 ручных)
-- 5 баг-репортов (шаги, ожидаемый/фактический результат)
-- Page Object Model, фикстуры, обход антибот-защиты
-- Google Таблица с тест-кейсами и багами
-
-### 🐾 PetFriends UI Тесты
-Автотесты для сайта PetFriends (Selenium + Pytest)
-Проверка страницы «Мои питомцы»: статистика, фото, данные, уникальность, дубликаты.
-
-### 🌐 PetFriends REST API Тесты
-16 автотестов для REST API сервиса PetFriends (Requests + Pytest)
-Позитивные/негативные сценарии: CRUD питомцев, авторизация, валидация.
-
-### 🏔️ Excursium — UI Тесты
-Автотесты для сайта туристической компании (Selenium + Pytest + POM)
-Регистрация, авторизация, фильтрация экскурсий, онлайн-калькулятор.
-
-### 🎬 Kinoafisha Parser
-Парсер афиши кинотеатров на Python
-Сбор и обработка данных с сайта киноафиши.
-
-### 🧮 Калькулятор — юнит-тесты
-5 юнит-тестов на Pytest
-Проверка базовых операций: сложение, умножение, вычитание, деление, деление на ноль.
+### 🔐 Ростелеком ID — Автотесты SSO  
+*(Дипломный проект / Реальный кейс)*  
+📎 [Репозиторий](https://github.com/AntonMoroz91/rostel_sso_tests) | [Allure-отчёт](https://antonmoroz91.github.io/rostel_sso_tests/)  
+- 25 автотестов (Python + Selenium + Pytest).  
+- Page Object Model, фикстуры, обход антибот-защиты.  
+- Настроен CI/CD (GitHub Actions) и публикация Allure-отчётов.  
+- 30 тест-кейсов (25 авто + 5 ручных), 5 баг-репортов.
 
 ---
 
-## 📂 Другие проекты
-
-- orders-analysis — анализ заказов интернет-магазина (Python)
-- school-grade-journal — электронный дневник (Python)
-- bank-deposit-calculator — расчёт процентов по вкладам
-- conference-ticket-calculator — стоимость билетов на конференцию
+### 🐾 PetFriends (API + UI)  
+📎 [Репозиторий](https://github.com/AntonMoroz91/petfriends_api_tests)  
+- 16 автотестов для REST API (Requests, позитивные/негативные сценарии).  
+- UI-тесты проверки питомцев (статистика, уникальность, дубликаты).
 
 ---
 
-## 📫 Связь со мной
+### 🏔️ Excursium — UI Тесты  
+📎 [Репозиторий](https://github.com/AntonMoroz91/excursium_ui_tests)  
+- Автотесты для сайта туристической компании (Selenium + Pytest + POM).  
+- Проверка фильтрации, калькулятора, регистрации и авторизации.
 
-- GitHub: @AntonMoroz91
-- Telegram: @antonmoroz91
-- Email: toni.moroz.00@mail.ru
-- Телефон: +7 981 714 22 26
+---
+
+### 🎬 Kinoafisha Parser & Калькулятор (Unit)  
+📎 [Репозиторий](https://github.com/AntonMoroz91/kinoafisha_parser)  
+- Парсер афиши кинотеатров на Python.  
+- 5 юнит-тестов на Pytest (базовые операции + деление на ноль).
+
+---
+
+## 📂 Другие проекты  
+- **orders-analysis** — анализ заказов интернет-магазина (Python).  
+- **school-grade-journal** — электронный дневник (Python).  
+- **bank-deposit-calculator** — расчёт процентов по вкладам (Python).  
+- **conference-ticket-calculator** — стоимость билетов на конференцию (Python).  
+
+---
+
+## 📫 Связь со мной  
+
+- **GitHub:** [@AntonMoroz91](https://github.com/AntonMoroz91)  
+- **Telegram:** [@antonmoroz91](https://t.me/antonmoroz91)  
+- **Email:** [toni.moroz.00@mail.ru](mailto:toni.moroz.00@mail.ru)  
+- **Телефон:** +7 981 714 22 26  
 
 ---
 
 ## 📊 Статистика
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=AntonMoroz91&countColor=%23263759)
+
 ---
-⭐ Буду рад присоединиться к команде, где смогу применить свои навыки и расти дальше.
+
+⭐ *«Качественный продукт — не тот, в котором нет багов, а тот, в котором они быстро найдены и исправлены»*
+
+**Буду рад присоединиться к команде, где смогу применить свои навыки и расти дальше.**
