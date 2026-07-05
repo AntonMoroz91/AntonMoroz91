@@ -39,28 +39,28 @@
 ---
 
 ### 🐾 PetFriends (API + UI)  
-📎 [Репозиторий](https://github.com/AntonMoroz91/petfriends_api_tests)  
+📎 [Репозиторий](https://github.com/AntonMoroz91/rest-api-petfriends-testing)  
 - 16 автотестов для REST API (Requests, позитивные/негативные сценарии).  
 - UI-тесты проверки питомцев (статистика, уникальность, дубликаты).
 
 ---
 
 ### 🏔️ Excursium — UI Тесты  
-📎 [Репозиторий](https://github.com/AntonMoroz91/excursium_ui_tests)  
+📎 [Репозиторий](https://github.com/AntonMoroz91/excursium-tests)  
 - Автотесты для сайта туристической компании (Selenium + Pytest + POM).  
 - Проверка фильтрации, калькулятора, регистрации и авторизации.
 
 ---
 
 ### 🎬 Kinoafisha Parser  
-📎 [Репозиторий](https://github.com/AntonMoroz91/kinoafisha_parser)  
+📎 [Репозиторий](https://github.com/AntonMoroz91/kinoafisha-parser)  
 - Парсер афиши кинотеатров на Python.  
 - Сбор и обработка данных с сайта киноафиши.
 
 ---
 
 ### 🧮 Калькулятор — юнит-тесты  
-📎 [Репозиторий](https://github.com/AntonMoroz91/calculator_tests)  
+📎 [Репозиторий](https://github.com/AntonMoroz91/calculator-unit-tests)  
 - 5 юнит-тестов на Pytest.  
 - Проверка базовых операций: сложение, умножение, вычитание, деление, деление на ноль.  
 - Демонстрация навыков написания unit-тестов и обработки исключений.
