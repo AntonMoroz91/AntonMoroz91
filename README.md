@@ -80,7 +80,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-@AntonMoroz91-181717?logo=github)](https://github.com/AntonMoroz91)
 [![Telegram](https://img.shields.io/badge/Telegram-@antonmoroz91-26A5E4?logo=telegram)](https://t.me/antonmoroz91)
 [![Email](https://img.shields.io/badge/Email-toni.moroz.00@mail.ru-D14836?logo=gmail)](mailto:toni.moroz.00@mail.ru)
-[![Phone](https://img.shields.io/badge/Phone-+79817142226-blue?logo=telegram)](tel:+79817142226)
+[![Phone](https://img.shields.io/badge/Phone-+79817142226-25D366?logo=smartphone)](tel:+79817142226)
 
 ---
 
